@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> MSCA Ph.D. fellow </a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'> MSCA Ph.D. fellow </a>.
 
 profile:
   align: right
