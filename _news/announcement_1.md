@@ -1,8 +1,22 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-1-1
 inline: true
-related_posts: false
+# related_posts: false
 ---
+&emsp;**August** 
+- I successfully passed the Ph.D thesis examination with *cum laude* distinction. Big thanks to my Jury committe: [Prof JMM Montiel](http://webdiis.unizar.es/~josemari/), [Prof Franziska Mathis-Ulrich](https://www.aibe.tf.fau.de/person/franziska-mathis-ullrich/) and Dr. [Fanny Ficuciello](https://www.docenti.unina.it/#!/professor/46414e4e59464943554349454c4c4f464343464e5937345236304639313248/riferimenti)😍.
 
-A simple inline announcement.
+&emsp;**July** 
+
+- Our paper *"Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation"* has been accepted at <a href='https://ieee-iros.org/'>IROS 2023</a> 🤖.
+
+&emsp;**June** 
+
+- We organised a workshop titled *Autonomous flexible surgical robots: where we are and where we are going* at the 2023 [Hamlyn Symposium](https://www.hamlynsymposium.org/events/autonomous-flexible-surgical-robots-where-we-are-and-where-we-are-going/)
+
+- Presented a poster on *Safe-Reinforcement learning for surgery* at the [Reinforcement Learning Summer School (RLSS2023)](https://rlsummerschool.com/), Barcelona
+
+&emsp;**May** 
+
+- Our review article *"Autonomous Navigation for Robot-Assisted Intraluminal and Endovascular Procedures: A Systematic Review"* has been accepted at <a href='https://www.ieee-ras.org/publications/t-ro'>T-RO 2023</a>. Thanks to the *ATLAS* consortium for the collaborative effort 🤖.
