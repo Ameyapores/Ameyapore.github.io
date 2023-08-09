@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'> MSCA Ph.D. fellow </a>.
+subtitle: <strong>MSCA</strong> Ph.D. fellow<br>
 
 profile:
   align: right
