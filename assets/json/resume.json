@@ -103,7 +103,7 @@
       // "title": "Nobel Prize in Physics",
       // "date": "1921-11-01",
       // "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "Reviewer in several robotics journals such as R-AL and conferences like ICRA, IROS etc."
+      // "summary": "Reviewer in several robotics journals such as R-AL and conferences like ICRA, IROS etc."
     }
   ],
   "awards": [
@@ -116,8 +116,7 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": ["Lanuagues, Libraries and Softwares with advanced proficieny:Python, C#, R, PyTorch, Gymnasium, stable-baselines3, OpenCV, Scikit-learn, Unity3D, Meshlab, Blender, Gimp, Canva"
-    // {
+  "skills": [// {
     //   "languages":"Python, C#, R",
     //   "fluency": "Advanced"
     // }
@@ -152,9 +151,9 @@
     }
   ],
   "interests": [{
-    "Sports":"Advanced level player in Cricket and Basketball",
-    "Dance":"Intermediate level Salsa and Bachata dancer",
-    "Musical":"Advanced level Tabla player, a classical Indian institute"
+    // "Sports":"Advanced level player in Cricket and Basketball",
+    // "Dance":"Intermediate level Salsa and Bachata dancer",
+    // "Musical":"Advanced level Tabla player, a classical Indian institute"
   }],
   "volunteer": ["Former coordinator of DISHA, a non-profit organization for teaching under-privileged children"],
   "references": [],
