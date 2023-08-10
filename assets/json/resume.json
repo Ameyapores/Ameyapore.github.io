@@ -150,12 +150,12 @@
       "fluency": "Intermidiate"
     }
   ],
-  "interests": [{
-    // "Sports":"Advanced level player in Cricket and Basketball",
-    // "Dance":"Intermediate level Salsa and Bachata dancer",
-    // "Musical":"Advanced level Tabla player, a classical Indian institute"
-  }],
-  "volunteer": ["Former coordinator of DISHA, a non-profit organization for teaching under-privileged children"],
+  // "interests": [{
+  //   // "Sports":"Advanced level player in Cricket and Basketball",
+  //   // "Dance":"Intermediate level Salsa and Bachata dancer",
+  //   // "Musical":"Advanced level Tabla player, a classical Indian institute"
+  // }],
+  // "volunteer": ["Former coordinator of DISHA, a non-profit organization for teaching under-privileged children"],
   "references": [],
   "projects": []
 }
