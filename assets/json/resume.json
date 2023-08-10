@@ -22,7 +22,7 @@
       }
     ]
   },
-  "Work experience": [
+  "work": [
     {
       "name": "University of Verona, Italy",
       "position": "PhD student",
@@ -60,7 +60,7 @@
       ]
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "University of Verona, Italy",
       "url": "https://www.univr.it/en/",
@@ -98,7 +98,7 @@
       ]
     }
   ],
-  "Academic services": [
+  "academic services": [
     {
       // "title": "Nobel Prize in Physics",
       // "date": "1921-11-01",
@@ -116,24 +116,22 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [
-    {
-      "languages":"Python, C#, R",
-      "fluency": "Advanced"
-    },
-    {
-      "Libraries":"PyTorch, Gymnasium, stable-baselines3, OpenCV, Scikit-learn",
-      "fluency": "Advanced"
-    },
-    {
-      "Softwares":"Unity3D, Meshlab, Blender, Gimp, Canva",
-      "fluency": "Advanced"
-    },
-    {
-      "Soft skills":"Oratory, deadline management"
-    }
-
-
+  "skills": ["Lanuagues, Libraries and Softwares with advanced proficieny:Python, C#, R, PyTorch, Gymnasium, stable-baselines3, OpenCV, Scikit-learn, Unity3D, Meshlab, Blender, Gimp, Canva"
+    // {
+    //   "languages":"Python, C#, R",
+    //   "fluency": "Advanced"
+    // }
+    // {
+    //   "Libraries":"PyTorch, Gymnasium, stable-baselines3, OpenCV, Scikit-learn",
+    //   "fluency": "Advanced"
+    // },
+    // {
+    //   "Softwares":"Unity3D, Meshlab, Blender, Gimp, Canva",
+    //   "fluency": "Advanced"
+    // },
+    // {
+    //   "Soft skills":"Oratory, deadline management"
+    // }
   ],
   "languages": [
     {
