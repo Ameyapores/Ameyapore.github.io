@@ -108,12 +108,30 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Marie Skłodowska-Curie Actions ITN Ph.D. fellowship",
+      "date": "2019-10-01",
+      "awarder": "European Union's H2020, Research and Innovation",
+      "summary": "Awarded the fellowship to pursue joint doctoral studies at UNIVR and UPC.'"
+    },
+    {
+      "title": "Atal Incubation centre",
+      "date": "2019-05-01",
+      "awarder": "National Institute of Transforming India (NITI), Govt. of India",
+      "summary": "Team Lead: Secured funding of 1M USD for setting up an incubation center at IISER Pune, Oct 2019"
+    },
+    {
+      "title": "Mechanobiology Institute (MBI) fellowship",
+      "date": "2017-05-01",
+      "awarder": "National Institute of Singapore (NUS), Singapore",
+      "summary": "Awarded the fellowship for an internship at MBI, Singapore"
+    },
+    {
+      "title": "INSPIRE Fellowship",
+      "date": "2014-08-01",
+      "awarder": "Department of Science and Technology, Govt. of India",
+      "summary": "Awarded the fellowship for bachlor studies at the Indian Institute of Science Education and Research."
     }
-  ],
+    ],
   "certificates": [],
   "publications": [],
   "skills": [// {
