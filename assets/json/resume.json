@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "University of Verona, Italy",
+      "name": "University of Verona (UNIVR), Italy",
       "position": "PhD student",
       "url": "https://www.di.univr.it/?ent=persona&id=59651&lang=en",
       "startDate": "2019-10-01",
@@ -40,8 +40,8 @@
       "name": "Universitat Politècnica de Catalunya (UPC), Barcelona, Spain",
       "position": "PhD student",
       // "url": "https://example.com",
-      "startDate": "2019-10-01",
-      "endDate": "2023-08-01",
+      "startDate": "2019-12-01",
+      "endDate": "2023-07-30",
       "summary": "Developing soft object deformable simulator for robotic manipulation",
       "highlights": [
         "Clinical user study to test compare RL based control to human control for colonoscopy",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "University of Glasgow, Glasgow, UK",
+      "name": "University of Glasgow (UoG), Glasgow, UK",
       "position": "Master's student",
       // "url": "https://example.com",
       "startDate": "2018-04-01",
@@ -62,7 +62,7 @@
   ],
   "education": [
     {
-      "institution": "University of Verona, Italy",
+      "institution": "University of Verona (UNIVR), Italy",
       "url": "https://www.univr.it/en/",
       "area": "Department of Computer Science",
       "studyType": "PhD",
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "institution": "University of Glasgow, Glasgow, UK",
+      "institution": "University of Glasgow (UoG), Glasgow, UK",
       "url": "https://www.gla.ac.uk/",
       "area": "School of Computing Science",
       "studyType": "MS",
