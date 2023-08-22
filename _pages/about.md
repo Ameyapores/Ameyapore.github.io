@@ -18,12 +18,17 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Marie Skłodowska-Curie Actions (MSCA) Ph.D fellow jointly enrolled at the School of Computing Science, University of Verona, Italy (UNIVR) and at Automatic Control, Robotics and Computer Vision at Universitat Politècnica de Catalunya (UPC) Barcelona, Spain. My thesis is jointly supervised by [Prof. Paolo Fiorini](https://profs.sci.univr.it/~fiorini/) and [Prof Alicia Casals](https://futur.upc.edu/AliciaCasalsGelpi). My Ph.D. is part of the European Union's Horizon 2020 research and innovation program, AuTonomous intraLumiAl Surgery [ATLAS](https://atlas-itn.eu/) project.
+Hey there! Excited to have your here.
 
-My research interest includes developing **Reinforcement Learning (RL)** methods for robotics application with specific emphasis on **surgical robots**. Surgical robots offer a safety critical paradigm that require robust and adaptible control. The developed algorithms are tested in virtual simulation environements as well as real robotic platforms.
+I am a Marie Skłodowska-Curie Actions (MSCA) Ph.D fellow jointly enrolled at the School of Computing Science, University of Verona, Italy (UNIVR) and at Automatic Control, Robotics and Computer Vision at Universitat Politècnica de Catalunya (UPC) Barcelona, Spain. My thesis is jointly supervised by [Prof. Paolo Fiorini](https://profs.sci.univr.it/~fiorini/) and [Prof Alicia Casals](https://futur.upc.edu/AliciaCasalsGelpi). This Ph.D. journey is a part of the European Union's Horizon 2020 research and innovation program, AuTonomous intraLumiAl Surgery [ATLAS](https://atlas-itn.eu/) project.
+
+
+My research focuses on algorithms that can enable autonomous agents to learn complex behaviors through trial and error, particularly applied to **surgical robots**.
+<!-- My research interest includes developing **Reinforcement Learning (RL)** methods for robotics application with specific emphasis on **surgical robots**.  -->
+Surgical robots offer a safety critical paradigm that require robust and adaptible control. The developed algorithms are tested in virtual simulation environements as well as real robotic platforms.
 
 An essential part of my work has been towards learning effective task representations that could help in generalising policies to other tasks.
-For detailed list of my research activity, visit the [publication page](/Ameyapores.github.io/publications/).
+For detailed list of my research activity, visit the [publication page](https://ameyapores.github.io/publications/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
