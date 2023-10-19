@@ -33,6 +33,7 @@
   selected={false},
   pdf={https://arxiv.org/pdf/2303.03207.pdf},
   html={https://arxiv.org/abs/2303.03207},
+  preview = {title_image.png},
   abstract={The field of robotic Flexible Endoscopes (FEs) has progressed significantly, offering a promising solution to reduce patient discomfort. However, the limited autonomy of most robotic FEs results in non-intuitive and challenging manoeuvres, constraining their application in clinical settings. While previous studies have employed lumen tracking for autonomous navigation, they fail to adapt to the presence of obstructions and sharp turns when the endoscope faces the colon wall. In this work, we propose a Deep Reinforcement Learning (DRL)-based navigation strategy that eliminates the need for lumen tracking. However, the use of DRL methods poses safety risks as they do not account for potential hazards associated with the actions taken. To ensure safety, we exploit a Constrained Reinforcement Learning (CRL) method to restrict the policy in a predefined safety regime. Moreover, we present a model selection strategy that utilises Formal Verification (FV) to choose a policy that is entirely safe before deployment. We validate our approach in a virtual colonoscopy environment and report that out of the 300 trained policies, we could identify three policies that are entirely safe. Our work demonstrates that CRL, combined with model selection through FV, can improve the robustness and safety of robotic behaviour in surgical applications.}
 }
 
@@ -49,6 +50,7 @@
   abbr={IROS},
   organization={IEEE},
   selected={true},
+  preview = {colonoscopy.gif},
   abstract={Flexible Endoscopes (FEs) for colonoscopy present several limitations due to their inherent complexity, resulting in patient discomfort and lack of intuitiveness for clinicians. Robotic FEs with autonomous control represent a viable solution to reduce the workload of endoscopists and the training time while improving the procedure outcome. Prior works on autonomous endoscope FE control use heuristic policies that limit their generalisation to the unstructured and highly deformable colon environment and require frequent human intervention. This work proposes an image-based FE control using Deep Reinforcement Learning, called Deep Visuomotor Control (DVC), to exhibit adaptive behaviour in convoluted sections of the colon. DVC learns a mapping between the images and the FE control signal. A first user study of 20 expert gastrointestinal endoscopists was carried out to compare their navigation performance with DVC using a realistic virtual simulator. The results indicate that DVC shows equivalent performance on several assessment parameters, being more safer. Moreover, a second user study with 20 novice users was performed to demonstrate easier human supervision compared to a state-of-the-art heuristic control policy. Seamless supervision of colonoscopy procedures would enable endoscopists to focus on the medical decision rather than on the control of FE.},
   html={Colonoscopy navigation using end-to-end deep visuomotor control: A user study}
 }
@@ -86,6 +88,7 @@
   abbr={ICAR},
   organization={IEEE},
   selected={false},
+  preview = {luca.jpeg}
   abstract={Deep Reinforcement Learning (DRL) is emerging as a promising approach to generate adaptive behaviors for robotic platforms. However, a major drawback of using DRL is the data-hungry training regime that requires millions of trial and error attempts, which is impractical when running experiments on robotic systems. Learning from Demonstrations (LfD) has been introduced to solve this issue by cloning the behavior of expert demonstrations. However, LfD requires a large number of demonstrations that are difficult to be acquired since dedicated complex setups are required. To overcome these limitations, we propose a multi-subtask reinforcement learning methodology where complex pick and place tasks can be decomposed into low-level subtasks. These subtasks are parametrized as expert networks and learned via DRL methods. Trained subtasks are then combined by a high-level choreographer to accomplish the intended pick and place task considering different initial configurations. As a testbed, we use a pick and place robotic simulator to demonstrate our methodology and show that our method outperforms a benchmark methodology based on LfD in terms of sample-efficiency. We transfer the learned policy to the real robotic system and demonstrate robust grasping using various geometric-shaped objects.},
   html={https://ieeexplore.ieee.org/abstract/document/9659344}
 }
@@ -101,6 +104,7 @@
   abbr={ISMR},
   organization={IEEE},
   selected={false},
+  preview= {firstimage_final1.png},
   abstract={The current research focus in Robot-Assisted Minimally Invasive Surgery (RAMIS) is directed towards increasing the level of robot autonomy, to place surgeons in a supervisory position. Although Learning from Demonstrations (LfD) approaches are among the preferred ways for an autonomous surgical system to learn expert gestures, they require a high number of demonstrations and show poor generalization to the variable conditions of the surgical environment. In this work, we propose an LfD methodology based on Generative Adversarial Imitation Learning (GAIL) that is built on a Deep Reinforcement Learning (DRL) setting. GAIL combines generative adversarial networks to learn the distribution of expert trajectories with a DRL setting to ensure generalisation of trajectories providing human-like behaviour. We consider automation of tissue retraction, a common RAMIS task that involves soft tissues manipulation to expose a region of interest. In our proposed methodology, a small set of expert trajectories can be acquired through the da Vinci Research Kit (dVRK) and used to train the proposed LfD method inside a simulated environment. Results indicate that our methodology can accomplish the tissue retraction task with human-like behaviour while being more sample-efficient than the baseline DRL method. Towards the end, we show that the learnt policies can be successfully transferred to the real robotic platform and deployed for soft tissue retraction on a synthetic phantom.},
   html={https://ieeexplore.ieee.org/abstract/document/9661514}
 }
@@ -112,6 +116,7 @@
   year={2021},
   abbr={IROS},
   selected={true},
+  preview = {safe_rl.png},
   html={https://ieeexplore.ieee.org/abstract/document/9636175/},
   abstract={Deep Reinforcement Learning (DRL) is a viable solution for automating repetitive surgical subtasks due to its ability to learn complex behaviours in a dynamic environment. This task automation could lead to reduced surgeon’s cognitive workload, increased precision in critical aspects of the surgery, and fewer patient-related complications. However, current DRL methods do not guarantee any safety criteria as they maximise cumulative rewards without considering the risks associated with the actions performed. Due to this limitation, the application of DRL in the safety-critical paradigm of robot-assisted Minimally Invasive Surgery (MIS) has been constrained. In this work, we introduce a Safe-DRL framework that incorporates safety constraints for the automation of surgical subtasks via DRL training. We validate our approach in a virtual scene that replicates a tissue retraction task commonly occurring in multiple phases of an MIS. Furthermore, to evaluate the safe behaviour of the robotic arms, we formulate a formal verification tool for DRL methods that provides the probability of unsafe configurations. Our results indicate that a formal analysis guarantees safety with high confidence such that the robotic instruments operate within the safe workspace and avoid hazardous interaction with other anatomical structures.}
 }
@@ -147,6 +152,7 @@
   abbr={IROS},
   organization={IEEE},
   selected={true},
+  preview= {tissue.jpg},
   abstract={Reinforcement Learning (RL) methods have demonstrated promising results for the automation of subtasks in surgical robotic systems. Since many trial and error attempts are required to learn the optimal control policy, RL agent training can be performed in simulation and the learned behavior can be then deployed in real environments. In this work, we introduce an open-source simulation environment providing support for position based dynamics soft bodies simulation and state-of-the-art RL methods. We demonstrate the capabilities of the proposed framework by training an RL agent based on Proximal Policy Optimization in fat tissue manipulation for tumor exposure during a nephrectomy procedure. Leveraging on a preliminary optimization of the simulation parameters, we show that our agent is able to learn the task on a virtual replica of the anatomical environment. The learned behavior is robust to changes in the initial end-effector position. Furthermore, we show that the learned policy can be directly deployed on the da Vinci Research Kit, which is able to execute the trajectories generated by the RL agent. The proposed simulation environment represents an essential component for the development of next-generation robotic systems, where the interaction with the deformable anatomical environment is involved.},
   html={https://ieeexplore.ieee.org/abstract/document/9341710}
 }
@@ -172,6 +178,7 @@
   abbr={ICRA},
   organization={IEEE},
   selected={false},
+  preview = {fetch_rotate.gif},
   abstract={We present a behaviour-based reinforcement learning approach, inspired by Brook's subsumption architecture, in which simple fully connected networks are trained as reactive behaviours. Our working assumption is that a pick and place robotic task can be simplified by leveraging domain knowledge of a robotics developer to decompose and train reactive behaviours; namely, approach, grasp, and retract. Then the robot autonomously learns how to combine reactive behaviours via an Actor-Critic architecture. We use an Actor-Critic policy to determine the activation and inhibition mechanisms of the reactive behaviours in a particular temporal sequence. We validate our approach in a simulated robot environment where the task is about picking a block and taking it to a target position while orienting the gripper from a top grasp. The latter represents an extra degree-of-freedom of which current end-to-end reinforcement learning approaches fail to generalise. Our findings suggest that robotic learning can be more effective if each behaviour is learnt in isolation and then combined them to accomplish the task. That is, our approach learns the pick and place task in 8,000 episodes, which represents a drastic reduction in the number of training episodes required by an end-to-end approach ( 95,000 episodes) and existing state-of-the-art algorithms.},
   html={https://ieeexplore.ieee.org/abstract/document/9197262}
 }
