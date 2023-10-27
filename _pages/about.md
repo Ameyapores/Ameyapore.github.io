@@ -6,7 +6,7 @@ subtitle: <strong>MSCA</strong> Ph.D. fellow<br>
 
 profile:
   align: right
-  image: prof_pic.png
+  image: profile_new.png
   image_circular: true # crops the image to make it circular
   address: >
     <p> Office no. 1.64a </p>
