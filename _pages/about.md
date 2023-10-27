@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hey there! Excited to have your here.
 
-I am a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks) Ph.D fellow jointly enrolled at the School of Computing Science, University of Verona, Italy (UNIVR) and at Automatic Control, Robotics and Computer Vision at Universitat Politècnica de Catalunya (UPC) Barcelona, Spain. My thesis is jointly supervised by [Prof. Paolo Fiorini](https://profs.sci.univr.it/~fiorini/) and [Prof Alicia Casals](https://futur.upc.edu/AliciaCasalsGelpi). This Ph.D. journey is a part of the European Union's Horizon 2020 research and innovation program, AuTonomous intraLumiAl Surgery [ATLAS](https://atlas-itn.eu/) project.
+I am a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) Ph.D fellow jointly enrolled at the School of Computing Science, University of Verona, Italy (UNIVR) and at Automatic Control, Robotics and Computer Vision at Universitat Politècnica de Catalunya (UPC) Barcelona, Spain. My thesis is jointly supervised by [Prof. Paolo Fiorini](https://profs.sci.univr.it/~fiorini/) and [Prof Alicia Casals](https://futur.upc.edu/AliciaCasalsGelpi). This Ph.D. journey is a part of the European Union's Horizon 2020 research and innovation program, AuTonomous intraLumiAl Surgery [ATLAS](https://atlas-itn.eu/) project.
 
 
 My research focuses on algorithms that can enable autonomous agents to learn complex behaviors through trial and error, particularly applied to **surgical robots**.
