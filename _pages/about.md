@@ -30,6 +30,8 @@ Surgical robots offer a safety critical paradigm that require robust and adaptib
 An essential part of my work has been towards learning effective task representations that could help in generalising policies to other tasks.
 For detailed list of my research activity, visit the [publications page](https://ameyapores.github.io/publications/).
 
+Contact: ameya.pore@univr.it or ameya.pore@students.iiserpune.ac.in
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
