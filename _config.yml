@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ameya
 middle_name: 
 last_name: Pore
-email: ameya.pore@univr.it
+# email: 
 description: Ameya Pore academic website > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: Robotics, Deep Reinforcement learning, Surgical robots, Autonomy, Control  # add your own keywords or leave empty

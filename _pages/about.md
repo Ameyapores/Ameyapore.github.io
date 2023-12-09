@@ -25,12 +25,12 @@ I am a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-a
 
 My research focuses on algorithms that can enable autonomous agents to learn complex behaviors through trial and error, particularly applied to **surgical robots**.
 <!-- My research interest includes developing **Reinforcement Learning (RL)** methods for robotics application with specific emphasis on **surgical robots**.  -->
-Surgical robots offer a safety critical paradigm that require robust and adaptible control. The developed algorithms are tested in virtual simulation environements as well as real robotic platforms.
+Surgical robots offer a safety critical paradigm that require robust and adaptible control. The developed algorithms are tested in virtual simulation environments as well as real robotic platforms.
 
 An essential part of my work has been towards learning effective task representations that could help in generalising policies to other tasks.
 For detailed list of my research activity, visit the [publications page](https://ameyapores.github.io/publications/).
 
-Contact: ameya.pore@univr.it or ameya.pore@students.iiserpune.ac.in
+<!-- Contact: ameya.pore@univr.it or ameya.pore@students.iiserpune.ac.in -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
