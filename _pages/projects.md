@@ -2,7 +2,7 @@
 layout: page
 title: Miscellaneous
 permalink: /projects/
-description: Different projects that I have been working on.
+description: 
 nav: true
 nav_order: 5
 display_categories: [work, fun]
