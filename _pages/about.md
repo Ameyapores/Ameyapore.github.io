@@ -30,7 +30,7 @@ Surgical robots offer a safety critical paradigm that require robust and adaptib
 An essential part of my work has been towards learning effective task representations that could help in generalising policies to other tasks.
 For detailed list of my research activity, visit the [publications page](https://ameyapores.github.io/publications/).
 
-<!-- Contact: ameya.pore@univr.it or ameya.pore@students.iiserpune.ac.in -->
+Contact: ameya(dot)pore@univr(dot)it
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
