@@ -1,13 +1,29 @@
 ---
 layout: page
-title: projects
+title: Miscellaneous
 permalink: /projects/
-description: Collection of some of my music albums.
-nav: false
+description: Different projects that I have been working on.
+nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+In my spare time, I like to compose music. You can check my music on [Spotify](https://open.spotify.com/artist/6wWv9SWI07KvCb9YTNJFpa?si=QDW-VkW6QuKi_b2RUyxBxw) or [Apple music](https://music.apple.com/us/artist/uncle-pores/1719448357).
+
+The genre of my music is mostly pop folk and Indie. I learnt Indian classical music for a long time, so I also make fusion electronic music with Indian classical instruments. I generally use open-source AI softwares to help me in the composition and the vocals.
+
+Some of my representative albums are below.
+<!-- projects_horizontal.html -->
+<div class="col">
+  <div class="project-card">
+    <h3>{{ project.title }}</h3>
+    <a href="{{ project.link }}">
+      <img src="{{ project.image }}" alt="{{ project.title }}">
+    </a>
+    <p>{{ project.description }}</p>
+  </div>
+</div>
+
 
 <!-- pages/projects.md -->
 <div class="projects">
