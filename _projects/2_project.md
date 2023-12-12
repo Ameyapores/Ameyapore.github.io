@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Silent Tears
+title: Different moods
 description:
 img: assets/img/eyes.jpg
 importance: 1
