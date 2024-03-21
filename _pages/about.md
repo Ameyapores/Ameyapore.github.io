@@ -18,16 +18,15 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hey there! Excited to have your here.
+Hey there! Excited to have you here.
 
-I am a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) Ph.D fellow jointly enrolled at the Department of Computing Science, University of Verona, Italy (UNIVR) and at the Automatic Control, Robotics and Computer Vision division at the Universitat Politècnica de Catalunya (UPC) Barcelona, Spain. My thesis is jointly supervised by [Prof. Paolo Fiorini](https://www.dimi.univr.it/?ent=persona&id=9) and [Prof Alicia Casals](https://futur.upc.edu/AliciaCasalsGelpi). This Ph.D. journey is a part of the European Union's Horizon 2020 research and innovation program, AuTonomous intraLumiAl Surgery [ATLAS](https://atlas-itn.eu/) project.
+I am a postdoctoral researcher at the Department of Surgery, University of Verona, Italy. My current research interest spans broad topics of **robotic surgery**, such as surgical computer vision, robotic control, and reinforcement learning. This involves providing real-time assistance during surgery to improve patient outcomes through robotic or AI intervention.
 
+Before, I was a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) Ph.D fellow at the Department of Computing Science, University of Verona, Italy (UNIVR) and at the Automatic Control, Robotics and Computer Vision division at the Universitat Politècnica de Catalunya (UPC) Barcelona, Spain. My thesis was jointly supervised by [Prof. Paolo Fiorini](https://www.dimi.univr.it/?ent=persona&id=9) and [Prof Alicia Casals](https://futur.upc.edu/AliciaCasalsGelpi). The Ph.D. journey was part of the European Union's Horizon 2020 research and innovation program, AuTonomous intraLumiAl Surgery [ATLAS](https://atlas-itn.eu/) project.
 
-My research focuses on algorithms that can enable autonomous agents to learn complex behaviors through trial and error, particularly applied to **surgical robots**.
-<!-- My research interest includes developing **Reinforcement Learning (RL)** methods for robotics application with specific emphasis on **surgical robots**.  -->
-Surgical robots offer a safety critical paradigm that require robust and adaptible control. The developed algorithms are tested in virtual simulation environments as well as real robotic platforms.
+During the Ph.D., my contributions were towards increasing the safety of surgical robotic procedures through safe-reinforcement learning approaches. Surgical robots offer a critical paradigm for safety that requires robust and adaptable control. We developed one of the first soft-tissue simulation environments to train and test robots for automating surgical subtasks.
+My research has also been in the domain of reinforcement learning to learn effective task representations that could help in generalizing policies to other tasks.
 
-An essential part of my work has been towards learning effective task representations that could help in generalising policies to other tasks.
 For detailed list of my research activity, visit the [publications page](https://ameyapores.github.io/publications/).
 
 Contact: ameya(dot)pore@univr(dot)it
