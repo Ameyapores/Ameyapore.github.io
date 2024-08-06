@@ -20,11 +20,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hey there! Excited to have you here.
 
-I am a postdoctoral researcher at the Department of Surgery, University of Verona, Italy. My current research interest spans broad topics of **robotic surgery**, such as surgical computer vision, robotic control, and reinforcement learning. This involves providing real-time assistance during surgery to improve patient outcomes through robotic or AI intervention.
+I am a postdoctoral researcher at the Department of Mathematical & Computational Sciences department, University of Toronto, Canada. My current research interest spans broad topics of **robotic surgery**, such as surgical computer vision, robotic control, and reinforcement learning. This involves providing real-time assistance during surgery to improve patient outcomes through robotic or AI intervention.
 
 Before, I was a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) Ph.D fellow at the Department of Computing Science, University of Verona, Italy (UNIVR) and at the Automatic Control, Robotics and Computer Vision division at the Universitat Politècnica de Catalunya (UPC) Barcelona, Spain. My thesis was jointly supervised by [Prof. Paolo Fiorini](https://www.dimi.univr.it/?ent=persona&id=9) and [Prof Alicia Casals](https://futur.upc.edu/AliciaCasalsGelpi). The Ph.D. journey was part of the European Union's Horizon 2020 research and innovation program, AuTonomous intraLumiAl Surgery [ATLAS](https://atlas-itn.eu/) project.
 
-During the Ph.D., my contributions were towards increasing the safety of surgical robotic procedures through safe-reinforcement learning approaches. Surgical robots offer a critical paradigm for safety that requires robust and adaptable control. We developed one of the first soft-tissue simulation environments to train and test robots for automating surgical subtasks.
+During the Ph.D., my contributions were towards increasing the safety of surgical robotic procedures through safe-reinforcement learning approaches. We developed one of the first soft-tissue simulation environments to train and test robots for automating surgical subtasks.
 My research has also been in the domain of reinforcement learning to learn effective task representations that could help in generalizing policies to other tasks.
 
 For detailed list of my research activity, visit the [publications page](https://ameyapores.github.io/publications/).
