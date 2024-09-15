@@ -6,12 +6,11 @@ subtitle: <strong>MSCA</strong> Ph.D. fellow<br>
 
 profile:
   align: right
-  image: profile_new.png
+  image: slack.jpeg
   image_circular: true # crops the image to make it circular
   address: >
-    <p> Office no. 1.64a </p>
-    <p> Str le Grazie 15 </p>
-    <p> Verona, VR, 37134 </p>
+    <p> MN3130 </p>
+    <p> University of Toronto, Mississauga </p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
