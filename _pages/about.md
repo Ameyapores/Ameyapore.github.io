@@ -6,7 +6,7 @@ subtitle: <strong>MSCA</strong> Ph.D. fellow<br>
 
 profile:
   align: right
-  image: slack.jpeg
+  image: github_pic.jpeg
   image_circular: true # crops the image to make it circular
   address: >
     <p> MN3130 </p>
