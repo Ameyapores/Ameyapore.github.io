@@ -1,28 +1,38 @@
 {
   "basics": {
     "name": "Ameya Pore",
-    "label": "MSCA PhD fellow",
+    "label": "Schmidt AI in Science Postdoctoral fellow",
     "image": "",
-    "email": "ameya.pore@univr.it",
+    "email": "ameya.pore@utoronto.ca",
     // "phone": "(912) 123-4567",
     "url": "https://Ameyapores.github.io",
-    "summary": "Deep learning researcher trying to combine surgery with Robots",
+    "summary": "Robotic Learning: Reinforcement Learning, Imitation Learning and Fondational models for manipulation",
     "location": {
-      "address": "University of Verona",
-      "postalCode": "37134",
-      "city": "Verona",
-      "countryCode": "IT",
-      "region": "VR, Veneto"
+      "address": "University of Toronto",
+      "city": "Toronto",
+      "countryCode": "CA",
+      "region": "ON"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "ameya-pore",
+        "url": "https://www.linkedin.com/in/ameya-pore/"
       }
     ]
   },
   "work": [
+    {
+      "name": "University of Toronto (UofT), Canada and Vector Institute for Artificial Intelligence (VIAI), Canada",
+      "position": "Schmidt AI in Science Postdoctoral fellow",
+      "startDate": "2024-08-01",
+      "endDate": "2027-05-31",
+      "summary": "RL for robotic control. Foundational models for imitaion learning",
+      "highlights": [
+        "Vision-Language-Action (VLA) models for Surgical robotic tasks",
+        "Multi-cam RL for robotic learning"
+      ]
+    },
     {
       "name": "University of Verona (UNIVR), Italy",
       "position": "PhD student",
@@ -107,6 +117,18 @@
     }
   ],
   "awards": [
+     {
+      "title": "Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship",
+      "date": "2025-05-01",
+      "awarder": "Schmidt Futures",
+      "summary": "Awarded the fellowship to pursue postdoctoral research at the University of Toronto and Vector Institute for AI."
+    },
+    {
+      "title": "Umberto Veronesi Fellowship",
+      "date": "2023-08-01",
+      "awarder": "Umberto Veronesi Foundation, Italy",
+      "summary": "Awarded the fellowship to pursue postdoctoral research at the University of Verona on surgical computer vision."
+    },
     {
       "title": "Marie Skłodowska-Curie Actions ITN Ph.D. fellowship",
       "date": "2019-10-01",
@@ -164,10 +186,6 @@
     {
       "language": "Marathi",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "Hindi",
-      "fluency": "Fluent"
     },
     {
       "language": "Italian",

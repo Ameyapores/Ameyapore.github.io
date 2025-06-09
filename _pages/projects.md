@@ -8,11 +8,14 @@ nav_order: 5
 display_categories: [fun]
 horizontal: false
 ---
+
+**Dance**
+
+Trying to learn some technical Cuban Salsa and Bachata. Will post some updates soon.
+
 **Music**
 
-In my spare time, I like to compose music. You can check my music on [Spotify](https://open.spotify.com/artist/6wWv9SWI07KvCb9YTNJFpa?si=QDW-VkW6QuKi_b2RUyxBxw) or [Apple music](https://music.apple.com/us/artist/uncle-pores/1719448357).
-
-The genre of my music is mostly pop folk and Indie. I learnt Indian classical music for a long time, so I also make fusion electronic music with Indian classical instruments. I generally use open-source AI softwares to help me in the composition and the vocals.
+In my spare time, I like to create AI music. You can check my music on [Spotify](https://open.spotify.com/artist/6wWv9SWI07KvCb9YTNJFpa?si=QDW-VkW6QuKi_b2RUyxBxw) or [Apple music](https://music.apple.com/us/artist/uncle-pores/1719448357). I generally use open-source AI softwares to help me in the composition and the vocals.
 
 Some of my representative albums are below.
 <!-- projects_horizontal.html -->
