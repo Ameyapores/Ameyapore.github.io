@@ -15,19 +15,7 @@ Trying to learn some technical Cuban Salsa and Bachata. Will post some updates s
 
 **Music**
 
-In my spare time, I like to create AI music. You can check my music on [Spotify](https://open.spotify.com/artist/6wWv9SWI07KvCb9YTNJFpa?si=QDW-VkW6QuKi_b2RUyxBxw) or [Apple music](https://music.apple.com/us/artist/uncle-pores/1719448357). I generally use open-source AI softwares to help me in the composition and the vocals.
-
-Some of my representative albums are below.
-<!-- projects_horizontal.html -->
-<div class="col">
-  <div class="project-card">
-    <h3>{{ project.title }}</h3>
-    <a href="{{ project.link }}">
-      <img src="{{ project.image }}" alt="{{ project.title }}">
-    </a>
-    <p>{{ project.description }}</p>
-  </div>
-</div>
+In my spare time, I like to create AI music. The music will be on Spotify and Apple Music soon.. I generally use open-source AI softwares to help me in the composition and the vocals.
 
 
 <!-- pages/projects.md -->
