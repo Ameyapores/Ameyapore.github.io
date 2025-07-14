@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hey there! Excited to have you here.
 
-I am a **[Eric and Wendy Schmidt AI in Science Postdoctoral Fellow](https://schmidtfellows.utoronto.ca)** at the Department of Computer Science at the **University of Toronto (UofT)**. I am also affiliated to the **Vector Institute** as a Postdoctoral Fellow.
+I am a **[Eric and Wendy Schmidt AI in Science Postdoctoral Fellow](https://schmidtfellows.utoronto.ca)** at the Department of Computer Science at the **University of Toronto (UofT)**. I am also affiliated to the **[Vector Institute for Artificial Intelligence](https://vectorinstitute.ai)** as a Postdoctoral Fellow.
 
 My current research interest spans broad topics of **robotic learning** for manipulation tasks, particularly applied for robot-assisted surgery. Some topics that I am interested in are Reinforcement Learning (RL), accelerated simulations, Imitation learning and foundational models for robotic control.
 
