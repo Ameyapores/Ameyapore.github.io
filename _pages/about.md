@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <strong>MSCA</strong> Ph.D. fellow<br>
+subtitle:
 
 profile:
   align: right
