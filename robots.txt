@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ameyapore.github.io/sitemap.xml
+Sitemap: https://Ameyapore.github.io/sitemap.xml
